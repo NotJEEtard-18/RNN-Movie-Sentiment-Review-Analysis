@@ -5,4 +5,3 @@ pandas==2.2.2
 scikit-learn==1.5.1
 matplotlib==3.9.2
 scikeras==0.13.0
-tensorboard==2.16.2
